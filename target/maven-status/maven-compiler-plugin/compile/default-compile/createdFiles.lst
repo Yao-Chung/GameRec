@@ -1,9 +1,0 @@
-com/GameRec/GameRecSystem/config/DynamodbConfiguration.class
-com/GameRec/GameRecSystem/database/Messages.class
-com/GameRec/GameRecSystem/database/DynamodbResource.class
-com/GameRec/GameRecSystem/userprofile/UserProfile.class
-com/GameRec/GameRecSystem/userprofile/UserProfileDataAccessService.class
-com/GameRec/GameRecSystem/userprofile/UserProfileController.class
-com/GameRec/GameRecSystem/database/DynamoDBRespository.class
-com/GameRec/GameRecSystem/GameRecSystemApplication.class
-com/GameRec/GameRecSystem/userprofile/UserProfileService.class
