@@ -1,0 +1,9 @@
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/GameRecSystemApplication.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/database/DynamoDBRespository.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/userprofile/UserProfileController.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/database/Messages.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/userprofile/UserProfileService.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/userprofile/UserProfile.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/config/DynamodbConfiguration.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/database/DynamodbResource.java
+/Users/bihaoxu/Documents/GameRecSystem/src/main/java/com/GameRec/GameRecSystem/userprofile/UserProfileDataAccessService.java
