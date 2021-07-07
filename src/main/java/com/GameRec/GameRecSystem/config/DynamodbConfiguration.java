@@ -27,7 +27,7 @@ public class DynamodbConfiguration {
         DynamoDBMapperConfig dbMapperConfig = new DynamoDBMapperConfig.Builder()
                 .withTableNameResolver(TABLE_NAME_RESOLVER)
                 .build();
-        BasicAWSCredentials awsCreds = new BasicAWSCredentials("AKIAQKMFPIPKMNS4TY4X","Eg1m9da/EYzf0bRH3HsyMXNtzf+L8YGhufJdWuLx");
+        BasicAWSCredentials awsCreds = new BasicAWSCredentials("accessKey","secretKey");
         AmazonDynamoDBClient dynamoDBClient = (AmazonDynamoDBClient) AmazonDynamoDBClientBuilder
                 .standard()
                 .withCredentials(new AWSStaticCredentialsProvider(awsCreds))
