@@ -16,6 +16,8 @@ public class DynamodbResource {
     public List<Messages> getAllValues() {
         List<Messages> datas = new ArrayList<>();
         datas = dbRespository.getInformation();
+        //HAHAHA
+        System.out.println("Hello Fork");
         return datas;
     }
 }
