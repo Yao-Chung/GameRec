@@ -16,6 +16,8 @@ public class DynamodbResource {
     public List<Messages> getAllValues() {
         List<Messages> datas = new ArrayList<>();
         datas = dbRespository.getInformation();
+        //ADD something.
+        System.out.println("This is a small change.");
         return datas;
     }
 }
