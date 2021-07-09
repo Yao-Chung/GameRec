@@ -16,6 +16,7 @@ public class DynamodbResource {
     public List<Messages> getAllValues() {
         List<Messages> datas = new ArrayList<>();
         datas = dbRespository.getInformation();
+        System.out.println("Test git pull from fork");
         return datas;
     }
 }
